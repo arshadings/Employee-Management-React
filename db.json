@@ -1,0 +1,105 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Arshad Hussain",
+      "email": "arshad@gmail.com",
+      "phone": "9987881255",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Kumar",
+      "email": "kumarsanga@gmail.com",
+      "phone": "8854478232",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Adarsh",
+      "email": "adarsh@yahoo.com",
+      "phone": "8088541099",
+      "active": true
+    },
+    {
+      "id": 7,
+      "name": "Anand Mahendra",
+      "email": "anand@mahendra.com",
+      "phone": "9967522366",
+      "active": true
+    },
+    {
+      "id": 9,
+      "name": "Rohit Rana",
+      "email": "rohit@outlook.com",
+      "phone": "7736482537",
+      "active": true
+    },
+    {
+      "id": 10,
+      "name": "Kiran more",
+      "email": "more@none.com",
+      "phone": "8767656465",
+      "active": true
+    },
+    {
+      "id": 11,
+      "name": "rohan santosh",
+      "email": "rohan@outlook.com",
+      "phone": "8846354646",
+      "active": true
+    },
+    {
+      "id": 12,
+      "name": "Sanga",
+      "email": "kumar@gmail.com",
+      "phone": "865746575",
+      "active": true
+    },
+    {
+      "id": 13,
+      "name": "Tested",
+      "email": "test@testing.com",
+      "phone": "9984546474",
+      "active": true
+    }
+  ],
+  "user": [
+    {
+      "id": "test",
+      "firstname": "test",
+      "lastname": "test",
+      "password": "test",
+      "email": "test@test",
+      "phone": "11111",
+      "gender": "male"
+    },
+    {
+      "id": "arshad",
+      "firstname": "Arshad",
+      "lastname": "Hussain",
+      "password": "arshad",
+      "email": "arshad@gmail.com",
+      "phone": "998977",
+      "gender": "male"
+    },
+    {
+      "id": "admin",
+      "firstname": "Admin",
+      "lastname": "Admin",
+      "password": "admin",
+      "email": "admin@test",
+      "phone": "123456789",
+      "gender": "male"
+    },
+    {
+      "id": "rohit",
+      "firstname": "Rohit",
+      "lastname": "Sharma",
+      "password": "rohit",
+      "email": "rohit@gmail.com",
+      "phone": "7777546474",
+      "gender": "male"
+    }
+  ]
+}
